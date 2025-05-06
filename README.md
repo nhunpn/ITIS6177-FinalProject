@@ -7,7 +7,7 @@ This API lets you connect to Microsoft’s Azure Computer Vision Image Analysis 
 
 ## ⏩ Quick Start:
 Here’s a quick way to start using the API:
-1. Send a POST request to this endpoint in Postman: `http://157.245.249.190:3000/analyze`
+1. Create a POST request to this endpoint in Postman: `http://157.245.249.190:3000/analyze`
    
 2. In the Body tab, select **raw** and **JSON**, then paste your image URL in this following format: 
  ```json
