@@ -40,13 +40,16 @@ Here’s a quick way to start using the API:
 1. Open Postman (download [Postman](https://www.postman.com/) or [Postman Desktop](https://www.postman.com/downloads/postman-agent/) if you haven’t)
 
 2. Create a POST request to `http://157.245.249.190:3000/analyze`
+   
+   <img width="615" alt="image" src="https://github.com/user-attachments/assets/c428478c-ad3d-422d-b7ee-af63399c9dcb" />
+
 
    Example of what you should have in Postman: 
 
-    ![Screenshot 2025-05-05 170653](https://github.com/user-attachments/assets/a6c7e940-01e7-4dde-825c-ecbcedaf1ccf)
+   <img width="647" alt="image" src="https://github.com/user-attachments/assets/dda97df6-8f72-4945-9394-ad8fa08e7efd" />
 
 
-3. In the Body tab, select raw and JSON and paste your image url in this following format:
+4. In the Body tab, select raw and JSON and paste your image url in this following format:
  ```json
    {  
       "imageUrl": "https://example.com/image.jpg"  
@@ -55,8 +58,7 @@ Here’s a quick way to start using the API:
 
    Example of what you should have in Postman: 
   
-   ![Screenshot 2025-05-05 171101](https://github.com/user-attachments/assets/9441dd4e-7c8e-41d7-945a-a36f2fe31515)  
-
+   <img width="602" alt="image" src="https://github.com/user-attachments/assets/01548aa9-755f-4ab3-8c94-f021b79bbe4d" />
 
 
 4. Hit Send  
